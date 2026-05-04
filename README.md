@@ -3,7 +3,9 @@
 <h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Learning+React+%26+Node.js;Building+Real+World+Projects;Open+Source+Contributor+In+Progress" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Learning+AI%2FML+%26+Data+Science;React+%26+Node.js+Developer;Building+Real+World+Projects;Open+Source+Contributor" />
+</p>
 </p>
 
 ---
