@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on improving my **Full Stack Development skills**
+- 🔭 Currently working on improving my **Full Stack Development skills & Artifical Intelligence and Machine Learning**
 - 🌱 Learning **React, Node.js, MongoDB**
 - 💡 Interested in **Web Apps, APIs, and Open Source**
 - 🎯 Goal: Become a **professional software engineer**
